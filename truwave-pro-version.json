@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.1",
+  "ver": "1.0.0",
   "title": "Truwave Pro 1.0.1 可用",
   "content": "本次更新：\n- 修复分区为空时主设备改速度卡顿\n- 优化 Cue 出光线速\n- 其他稳定性改进",
   "web": "https://pan.baidu.com/s/你的分享链接",
